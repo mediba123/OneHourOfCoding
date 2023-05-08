@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(https://www.athletadesk.com/wp-content/uploads/2016/08/join-background.jpg);
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body{
+    text-align: center;
+}
